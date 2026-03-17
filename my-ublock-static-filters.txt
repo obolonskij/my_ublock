@@ -1,4 +1,1 @@
-! YouTube 5 Videos Per Row Fix (https://old.reddit.com/r/youtube/comments/1g5l9mc/really_youtube_the_thumbnails_are_ridiculously/lsgnr02/)
-! youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
-youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-items-per-row: 5 !important;)
-youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-posts-per-row: 5 !important;)
+ 
